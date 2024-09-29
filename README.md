@@ -51,7 +51,7 @@ To run this notebook, you'll need to have Jupyter Notebook and an Anaconda envir
 #### 1. Clone the repository <br>
 Open your terminal or command prompt and run: <br>
 ```bash
-git clone https://github.com/bjam24/bank_customer_segmentation_methods.git
+git clone https://github.com/vikaskheni/Bank_Customer_Segmentation.git
 cd bank_customer_segmentation_methods
 ```
 #### 2. Create and activate a new Anaconda environment <br>
